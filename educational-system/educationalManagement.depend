@@ -1,0 +1,269 @@
+# depslib dependency file v1.0
+1690235892 source:d:\ÇáÌÇãÚå\c++\educationalmanagement\main.cpp
+	<iostream>
+	"include/managerController.h"
+
+1689431059 source:d:\ÇáÌÇãÚå\c++\educationalmanagement\demo.cpp
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	"include/student.h"
+	"include/doctor.h"
+
+1690218321 d:\ÇáÌÇãÚå\c++\educationalmanagement\include\student.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	"course.h"
+	"assignmentSolution.h"
+
+1690229161 d:\ÇáÌÇãÚå\c++\educationalmanagement\include\course.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	"doctor.h"
+	"student.h"
+	"assignment.h"
+
+1690233388 d:\ÇáÌÇãÚå\c++\educationalmanagement\include\doctor.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	"course.h"
+
+1690237517 d:\ÇáÌÇãÚå\c++\educationalmanagement\include\assignment.h
+	"course.h"
+	"assignmentSolution.h"
+	"student.h"
+
+1690218270 d:\ÇáÌÇãÚå\c++\educationalmanagement\include\assignmentsolution.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	"assignment.h"
+	"student.h"
+
+1690218415 source:d:\ÇáÌÇãÚå\c++\educationalmanagement\src\assignment.cpp
+	"../include/assignment.h"
+
+1690218320 source:d:\ÇáÌÇãÚå\c++\educationalmanagement\src\course.cpp
+	"../include/course.h"
+
+1690235230 source:d:\ÇáÌÇãÚå\c++\educationalmanagement\src\doctor.cpp
+	"../include/doctor.h"
+	"../include/helper.h"
+
+1690234760 source:d:\ÇáÌÇãÚå\c++\educationalmanagement\src\student.cpp
+	"../include/student.h"
+	"../include/helper.h"
+
+1690235216 source:d:\ÇáÌÇãÚå\c++\educationalmanagement\src\helper.cpp
+	"../include/helper.h"
+	<iostream>
+	<sstream>
+	<string>
+	<memory>
+	<vector>
+
+1690234864 d:\ÇáÌÇãÚå\c++\educationalmanagement\include\helper.h
+	<algorithm>
+	<string>
+	<sstream>
+	<memory>
+	<vector>
+
+1690237126 source:d:\ÇáÌÇãÚå\c++\educationalmanagement\src\managercontroller.cpp
+	"../include/managerController.h"
+
+1690236650 d:\ÇáÌÇãÚå\c++\educationalmanagement\include\managercontroller.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	<assert.h>
+	"course.h"
+	"doctor.h"
+	"student.h"
+	"helper.h"
+
+1690218415 source:d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\src\assignment.cpp
+	"../include/assignment.h"
+
+1690237517 d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\include\assignment.h
+	"course.h"
+	"assignmentSolution.h"
+	"student.h"
+
+1690229161 d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\include\course.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	"doctor.h"
+	"student.h"
+	"assignment.h"
+
+1690233388 d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\include\doctor.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	"course.h"
+
+1690218321 d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\include\student.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	"course.h"
+	"assignmentSolution.h"
+
+1690218270 d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\include\assignmentsolution.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	"assignment.h"
+	"student.h"
+
+1690218320 source:d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\src\course.cpp
+	"../include/course.h"
+
+1690235230 source:d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\src\doctor.cpp
+	"../include/doctor.h"
+	"../include/helper.h"
+
+1690234864 d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\include\helper.h
+	<algorithm>
+	<string>
+	<sstream>
+	<memory>
+	<vector>
+
+1690234760 source:d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\src\student.cpp
+	"../include/student.h"
+	"../include/helper.h"
+
+1690240944 source:d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\main.cpp
+	<iostream>
+	"src/managerController.cpp"
+
+1690240357 d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\include\managercontroller.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	<assert.h>
+	"course.h"
+	"doctor.h"
+	"student.h"
+	"helper.h"
+
+1690237632 source:d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\src\helper.cpp
+	"../include/helper.h"
+	<iostream>
+
+1690239878 d:\ÇáÌÇãÚå\c++\educationalmanagement - copy (2)\src\managercontroller.cpp
+	"../include/managerController.h"
+
+1690240944 source:d:\ÇáÌÇãÚå\c++\educational-system\main.cpp
+	<iostream>
+	"src/managerController.cpp"
+
+1690239878 d:\ÇáÌÇãÚå\c++\educational-system\src\managercontroller.cpp
+	"../include/managerController.h"
+
+1690240357 d:\ÇáÌÇãÚå\c++\educational-system\include\managercontroller.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	<assert.h>
+	"course.h"
+	"doctor.h"
+	"student.h"
+	"helper.h"
+
+1690229161 d:\ÇáÌÇãÚå\c++\educational-system\include\course.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	"doctor.h"
+	"student.h"
+	"assignment.h"
+
+1690233388 d:\ÇáÌÇãÚå\c++\educational-system\include\doctor.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	"course.h"
+
+1690218321 d:\ÇáÌÇãÚå\c++\educational-system\include\student.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	"course.h"
+	"assignmentSolution.h"
+
+1690218270 d:\ÇáÌÇãÚå\c++\educational-system\include\assignmentsolution.h
+	<iostream>
+	<vector>
+	<memory>
+	<iomanip>
+	<algorithm>
+	"assignment.h"
+	"student.h"
+
+1690237517 d:\ÇáÌÇãÚå\c++\educational-system\include\assignment.h
+	"course.h"
+	"assignmentSolution.h"
+	"student.h"
+
+1690234864 d:\ÇáÌÇãÚå\c++\educational-system\include\helper.h
+	<algorithm>
+	<string>
+	<sstream>
+	<memory>
+	<vector>
+
+1690218415 source:d:\ÇáÌÇãÚå\c++\educational-system\src\assignment.cpp
+	"../include/assignment.h"
+
+1690218320 source:d:\ÇáÌÇãÚå\c++\educational-system\src\course.cpp
+	"../include/course.h"
+
+1690235230 source:d:\ÇáÌÇãÚå\c++\educational-system\src\doctor.cpp
+	"../include/doctor.h"
+	"../include/helper.h"
+
+1690237632 source:d:\ÇáÌÇãÚå\c++\educational-system\src\helper.cpp
+	"../include/helper.h"
+	<iostream>
+
+1690234760 source:d:\ÇáÌÇãÚå\c++\educational-system\src\student.cpp
+	"../include/student.h"
+	"../include/helper.h"
+
