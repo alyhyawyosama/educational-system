@@ -1,4 +1,4 @@
-# Educational System Project
+# Simple educational System Project
 
 ![Project Logo](link_to_your_project_logo.png)
 
