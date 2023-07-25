@@ -13,7 +13,7 @@
 - [Contact](#contact)
 
 ## Introduction
-This is a simple educational system project developed as a personal learning project to review C++ basics and some data structure concepts. The project is designed to provide functionalities for doctors and students, allowing them to interact with courses, assignments, and solutions. It does not incorporate object-oriented programming concepts.
+This is a simple educational system project developed as a personal learning project to review C++ basics and some data structure types. The project is designed to provide functionalities for doctors and students, allowing them to interact with courses, assignments, and solutions. It does not incorporate object-oriented programming concepts.
 
 ## Features
 The educational system project includes the following features:
